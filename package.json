@@ -1,0 +1,26 @@
+{
+  "name": "sabemi-cordova-plugin-crop",
+  "version": "0.4.0",
+  "description": "Crop an image in a Cordova app",
+  "cordova": {
+    "id": "sabemi-cordova-plugin-crop",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://digitalhom.sabemi.com.br:8080/scm/git/cordova-plugin-crop"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "image",
+    "image manipulation",
+    "crop"
+  ],
+  "license": "MIT"
+}
